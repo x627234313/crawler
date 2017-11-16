@@ -10,5 +10,5 @@
 1. 还可以查询最近一天、一小时从哪个网站抓取的几张图片，图片信息，包括标签、抓取时间、抓取地址等
 
 # 参考
-[Python最佳实践指南！](http://pythonguidecn.readthedocs.io/zh/latest/index.html)
+[Python最佳实践指南！](http://pythonguidecn.readthedocs.io/zh/latest/index.html)  
 [小白学爬虫](http://cuiqingcai.com/4352.html)
