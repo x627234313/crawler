@@ -11,3 +11,4 @@
 
 # 参考
 [Python最佳实践指南！](http://pythonguidecn.readthedocs.io/zh/latest/index.html)
+[小白学爬虫](http://cuiqingcai.com/4352.html)
